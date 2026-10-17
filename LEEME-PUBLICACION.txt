@@ -1,0 +1,18 @@
+REYSEC | PÁGINA WEB DE UNA SOLA PÁGINA
+
+CONTENIDO DEL PAQUETE
+- index.html: página completa con estilos adaptables integrados
+- google-sites-embed.html: bloque listo para pegar en Insertar > Incorporar > Código para insertar
+- assets/: logo REYSEC y fotografías
+
+VISTA PREVIA
+Mantén index.html y la carpeta assets juntos. Abre index.html en un navegador para revisar la página localmente.
+
+PUBLICAR EN UN HOSTING WEB
+Sube index.html y toda la carpeta assets al mismo espacio de publicación. Conserva las rutas y nombres de archivos. Define index.html como página de inicio. No hace falta instalar dependencias ni activar JavaScript.
+
+GOOGLE SITES
+Google Sites no importa el ZIP como un sitio completo. Crea una página en Sites y agrega un bloque desde Insertar > Incorporar > Código para insertar. Abre google-sites-embed.html, copia todo su contenido y pégalo en el bloque. Aloja las imágenes en una URL pública y reemplaza las rutas assets/... por sus enlaces públicos. Ajusta la altura del bloque incorporado y revisa el sitio publicado. Alternativamente, publica el paquete en un hosting web y en Google Sites incorpora la URL pública del sitio.
+
+DATOS
+El botón de contacto dirige al WhatsApp +51 953 047 416. No se incluyen precios, certificaciones, dirección física, correo corporativo ni promesas horarias no confirmadas.
